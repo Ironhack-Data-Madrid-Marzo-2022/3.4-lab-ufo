@@ -39,5 +39,5 @@ which the device has been hidden.
   	- For example, if the lab is *lab-mysql* and your name is *Yonatan Rodriguez*, your pull request name should be something like **`[lab-mysql] Yonatan Rodriguez`**.
 
 1. If you have successfully created the pull request you are done!  CONGRATS :)
-
+changes
 
